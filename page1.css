@@ -1,0 +1,21 @@
+body {
+  background-color: lightsalmon;
+}
+
+h1 {
+  color: green;
+  text-align: center;
+  background-color: lightgreen;
+}
+
+p {
+  color: royalblue;
+  font-size: 20px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-style: italic;
+  text-align: justify;
+}
+
+li {
+  font-weight: normal;
+}
